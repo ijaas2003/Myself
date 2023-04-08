@@ -1,18 +1,26 @@
 {
   "files": {
     "main.css": "/Myself/static/css/main.46573c2a.css",
-    "main.js": "/Myself/static/js/main.63d8f1ae.js",
+    "main.js": "/Myself/static/js/main.0a6d9dcc.js",
+    "static/media/skills-image.png": "/Myself/static/media/skills-image.51e40da64df180a7669a.png",
+    "static/media/project-5.jpeg": "/Myself/static/media/project-5.0b26b0692e9a610483a4.jpeg",
+    "static/media/project-6.jpeg": "/Myself/static/media/project-6.ecd87ccc7667efc5f77e.jpeg",
+    "static/media/project-3.jpeg": "/Myself/static/media/project-3.422dfb13f9ee0ce64584.jpeg",
+    "static/media/project-7.jpeg": "/Myself/static/media/project-7.0050498f8187d582112e.jpeg",
     "static/media/Web-Development.jpg": "/Myself/static/media/Web-Development.33f5176eca8d6a4d961c.jpg",
     "static/media/person-3.png": "/Myself/static/media/person-3.5dd0b714cfc8d2673b79.png",
     "static/media/person-2.png": "/Myself/static/media/person-2.6570129d3e8716b40235.png",
+    "static/media/project-1.jpeg": "/Myself/static/media/project-1.f3b907cc9bc300f0c439.jpeg",
     "static/media/person-1.png": "/Myself/static/media/person-1.fb6c3796b42f9ad950c7.png",
+    "static/media/project-4.jpeg": "/Myself/static/media/project-4.a059259a13ae03a1e4b2.jpeg",
+    "static/media/project-2.jpeg": "/Myself/static/media/project-2.6d87eee3afb3c2dd6b12.jpeg",
     "static/media/brush.png": "/Myself/static/media/brush.85c9bab5ba2d7dcae1e3.png",
     "index.html": "/Myself/index.html",
     "main.46573c2a.css.map": "/Myself/static/css/main.46573c2a.css.map",
-    "main.63d8f1ae.js.map": "/Myself/static/js/main.63d8f1ae.js.map"
+    "main.0a6d9dcc.js.map": "/Myself/static/js/main.0a6d9dcc.js.map"
   },
   "entrypoints": [
     "static/css/main.46573c2a.css",
-    "static/js/main.63d8f1ae.js"
+    "static/js/main.0a6d9dcc.js"
   ]
 }
