@@ -26,9 +26,7 @@ const Testmonials = () => {
           </div>
         </div>
         <p className="mt-10 mb-10">
-            Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-            fames odio in at. At magna ornare dictum lectus. Purus massa morbi
-            purus nec eget eleifend ut elit.
+            This are the reviews I got in my acadamics. I don't put my faculty image instead of I use other unknown image 
         </p>
         </motion.div>
         <div className='md:flex md:justify-between gap-8'>
@@ -45,8 +43,7 @@ const Testmonials = () => {
             >
             <p className='font-playfair text-6xl'>"</p>
             <p className='text-center text-xl'>
-            lassName="mt-10 mb-10"
-            Aliquam, amet dui feugiat facilisi dui.
+             Hii this guy is trying to prove him to the industry his project is like awesome and innovative main think about this guys, he concentrate on UI
             </p>
             </motion.div>
             <motion.div 
@@ -62,8 +59,7 @@ const Testmonials = () => {
             >
             <p className='font-playfair text-6xl'>"</p>
             <p className='text-center text-xl'>
-            lassName="mt-10 mb-10"
-            Aliquam, amet dui feugiat facilisi dui. 
+            Hello there, he is always like to learn new thinks so surly he will become a full stack developer
             </p>
             </motion.div>
             <motion.div 
@@ -79,8 +75,7 @@ const Testmonials = () => {
             >
             <p className='font-playfair text-6xl'>"</p>
             <p className='text-center text-xl'>
-            lassName="mt-10 mb-10"
-            Aliquam, amet dui feugiat facilisi dui. Aliquam 
+             Hello, he is a very good project based learner always like to learn new thinks. And new mordean Web Technologys.
             </p>
             </motion.div>
         </div>
